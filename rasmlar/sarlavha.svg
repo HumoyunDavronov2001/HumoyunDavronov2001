@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Humoyun Davronov — tizim muhandisi va full-stack dasturchi">
+  <defs>
+    <linearGradient id="fon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f1d36"/>
+    </linearGradient>
+    <linearGradient id="urgu" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="tor" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+    <clipPath id="yozuv">
+      <rect x="64" y="96" width="760" height="80">
+        <animate attributeName="width" values="0;760;760" keyTimes="0;0.35;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="1280" height="300" fill="url(#fon)"/>
+  <rect width="1280" height="300" fill="url(#tor)" opacity=".5"/>
+
+  <text x="64" y="78" style="font:600 18px 'DejaVu Sans Mono',Consolas,monospace;fill:#34d399">$ whoami</text>
+  <g clip-path="url(#yozuv)">
+    <text x="64" y="150" style="font:800 60px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#f8fafc">Humoyun Davronov</text>
+  </g>
+  <rect x="600" y="104" width="4" height="56" fill="#34d399">
+    <animate attributeName="x" values="64;600;600" keyTimes="0;0.35;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="64" y="196" style="font:500 22px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#94a3b8">Tizim muhandisi · Full-stack · Video analitika · Avtoturargoh avtomatlashtirish</text>
+  <rect x="64" y="220" width="220" height="4" rx="2" fill="url(#urgu)"/>
+
+  <!-- jonli tizimlar: pulsatsiya qiluvchi nuqtalar -->
+  <g transform="translate(940 70)">
+    <text x="0" y="0" style="font:600 15px 'Segoe UI',Inter,sans-serif;fill:#94a3b8">JONLI TIZIMLAR</text>
+    <text x="0" y="66" style="font:800 64px 'Segoe UI',Inter,sans-serif;fill:#f8fafc">15</text>
+    <text x="0" y="96" style="font:500 15px 'Segoe UI',Inter,sans-serif;fill:#64748b">ikki serverda, 24/7</text>
+    <g transform="translate(0 124)">
+      <circle cx="8" cy="8" r="6" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+      <circle cx="32" cy="8" r="6" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" begin=".2s" repeatCount="indefinite"/></circle>
+      <circle cx="56" cy="8" r="6" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" begin=".4s" repeatCount="indefinite"/></circle>
+      <circle cx="80" cy="8" r="6" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" begin=".6s" repeatCount="indefinite"/></circle>
+      <circle cx="104" cy="8" r="6" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" begin=".8s" repeatCount="indefinite"/></circle>
+      <circle cx="128" cy="8" r="6" fill="#38bdf8"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" begin="1s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+</svg>
