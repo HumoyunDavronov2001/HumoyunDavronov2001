@@ -1,21 +1,14 @@
 <img src="rasmlar/sarlavha.svg" alt="Humoyun Davronov — tizim muhandisi" width="100%"/>
 
-Jizzax, O'zbekiston. Real obyektlarda ishlaydigan tizimlar quraman: kamera va shlagbaumdan tortib server, panel va mobil ilovagacha. Davlat tashkilotlari va biznes uchun **15 ta tizimim** hozir serverlarda jonli ishlayapti.
+Jizzax, O'zbekiston. Real obyektlarda ishlaydigan tizimlar quraman: kamera va shlagbaumdan tortib server, panel va mobil ilovagacha. Davlat tashkilotlari va biznes uchun **15 ta tizimim** hozir serverlarda jonli ishlayapti — quyidagi panel ularni har 6 soatda o'zi tekshiradi.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Hikvision](https://img.shields.io/badge/Hikvision-ISAPI-E60012)
-![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239)
-![YOLO](https://img.shields.io/badge/YOLO-ONNX-00FFFF)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,py,ts,kotlin,swift,cpp,postgres,sqlite,docker,linux,react,nextjs,vue,fastapi,flask,nodejs,tailwind,nginx,githubactions&perline=10" alt="Texnologiyalar"/>
+</p>
 
-## 🚗 Avtoturargoh va kirish nazorati
+<img src="rasmlar/holat.svg" alt="Jonli tizimlar holati" width="100%"/>
+
+<img src="rasmlar/guruh_1_avtoturargoh.svg" alt="Avtoturargoh va kirish nazorati" width="100%"/>
 
 | Loyiha | Nima qiladi | Texnologiya |
 |---|---|---|
@@ -24,7 +17,7 @@ Jizzax, O'zbekiston. Real obyektlarda ishlaydigan tizimlar quraman: kamera va sh
 | [**zomin-kirish-postlari**](https://github.com/HumoyunDavronov2001/zomin-kirish-postlari) | Milliy tabiat bog'i postlari: tashrifchilar, BHM bo'yicha haq, fiskal chek | FastAPI · SQLite |
 | [**davomat**](https://github.com/HumoyunDavronov2001/davomat) | Hikvision yuz tanish terminali bilan yo'qlama, oylik tabel | Python · ISAPI |
 
-## 🏛️ Davlat raqamli tizimlari
+<img src="rasmlar/guruh_2_davlat.svg" alt="Davlat raqamli tizimlari" width="100%"/>
 
 | Loyiha | Nima qiladi | Jonli |
 |---|---|---|
@@ -39,29 +32,36 @@ Jizzax, O'zbekiston. Real obyektlarda ishlaydigan tizimlar quraman: kamera va sh
 | [**chorva-nazorat**](https://github.com/HumoyunDavronov2001/chorva-nazorat) | Mol bozorlari markazi: sanoq, kassa, o'zgarmas yozuvlar zanjiri, telefon kassa | [mol-bozor.unistart-hub.uz](https://mol-bozor.unistart-hub.uz) |
 | [**tarmoq-markazi**](https://github.com/HumoyunDavronov2001/tarmoq-markazi) | Ko'p obyektli tarmoq: MikroTik + WireGuard, kameralar bitta panelda | [markaz.geonazorat.uz](https://markaz.geonazorat.uz) |
 
-## 🤖 Sun'iy intellekt va video analitika
+<img src="rasmlar/guruh_3_ai.svg" alt="Sun'iy intellekt va video analitika" width="100%"/>
 
 | Loyiha | Nima qiladi |
 |---|---|
 | [**sanoat-xavfsizlik-ai**](https://github.com/HumoyunDavronov2001/sanoat-xavfsizlik-ai) | Sanoat korxonasi kameralarida AI xavfsizlik nazorati: 75 qoida, zonalar, olov va xavfli harakat, operator tasdig'i |
+| [**yolo-world-kamera**](https://github.com/HumoyunDavronov2001/yolo-world-kamera) | Noutbuk kamerasida GPU'siz 1000 sinfni real vaqtda aniqlash (YOLO-World + CLIP) |
 | [**ofis-miya**](https://github.com/HumoyunDavronov2001/ofis-miya) | Chat orqali CRM: pulni dastur hisoblaydi, sun'iy intellekt faqat taklif qiladi |
 | [**vatan-tuygusi**](https://github.com/HumoyunDavronov2001/vatan-tuygusi) | Video havolalardan kadr, ovoz va matn bo'yicha tahlil va portret |
 
-## 🛰️ Geodeziya va global platformalar
+<img src="rasmlar/guruh_4_geo.svg" alt="Geodeziya, sensor va tarjima" width="100%"/>
 
 | Loyiha | Nima qiladi | Jonli |
 |---|---|---|
 | [**trace4d**](https://github.com/HumoyunDavronov2001/trace4d) | Yer osti tarmoqlari reestri: iPhone LiDAR + RTK, quvurni aniqlash, 3D, ijro hujjati | [trace4d.geonazorat.uz](https://trace4d.geonazorat.uz) |
+| [**wifi-sensor**](https://github.com/HumoyunDavronov2001/wifi-sensor) | Passiv Wi-Fi skaneri va RSSI tebranishidan harakat sensori, faqat standart kutubxona | — |
 | [**tong**](https://github.com/HumoyunDavronov2001/tong) | Har kim o'z tilida: chat, qo'ng'iroq va efirda avtomatik tarjima | [tong.ipak-yoli.uz](https://tong.ipak-yoli.uz) |
 
-## 📊 Ma'lumot va avtomatlashtirish
+<img src="rasmlar/guruh_5_malumot.svg" alt="Ma'lumot va avtomatlashtirish" width="100%"/>
 
 | Loyiha | Nima qiladi | Jonli |
 |---|---|---|
-| [**spira-klub**](https://github.com/HumoyunDavronov2001/spira-klub) | Kompyuter klublari: kiosk, Win32 qulf agenti, smena, bar, bron ilovasi | — |
 | [**tender-radar**](https://github.com/HumoyunDavronov2001/tender-radar) | 12 ta xarid manbasidan faol lotlar radari va ichki CRM | [tender.geonazorat.uz](https://tender.geonazorat.uz) |
+| [**spira-klub**](https://github.com/HumoyunDavronov2001/spira-klub) | Kompyuter klublari: kiosk, Win32 qulf agenti, smena, bar, bron ilovasi | — |
+| [**insta-markaz**](https://github.com/HumoyunDavronov2001/insta-markaz) | O'z Instagram akkaunti uchun panel: statistika, Direct, spam filtri — rasmiy Graph API | — |
+| [**avto-platforma**](https://github.com/HumoyunDavronov2001/avto-platforma) | Avto super-ilova: SOS usta, diagnostika, mashina pasporti, ehtiyot qism, diler | — |
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HumoyunDavronov2001/HumoyunDavronov2001/output/ilon-tun.svg"/>
+  <img src="https://raw.githubusercontent.com/HumoyunDavronov2001/HumoyunDavronov2001/output/ilon.svg" alt="Faollik iloni" width="100%"/>
+</picture>
 
 <div align="center">
 

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200" role="img" aria-label="Ma'lumot va avtomatlashtirish">
+  <defs>
+    <linearGradient id="fon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#101c34"/></linearGradient>
+    <linearGradient id="chiz" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></linearGradient>
+    <pattern id="tor" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1a2440"/></pattern>
+    <clipPath id="maydon"><rect x="700" y="16" width="548" height="168" rx="14"/></clipPath>
+  </defs>
+  <rect width="1280" height="200" rx="18" fill="url(#fon)"/>
+  <rect width="1280" height="200" rx="18" fill="url(#tor)" opacity=".6"/>
+  <rect x="40" y="44" width="6" height="112" rx="3" fill="#2dd4bf"/>
+  <text x="70" y="88" style="font:800 34px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#f8fafc">Ma'lumot va avtomatlashtirish</text>
+  <text x="70" y="122" style="font:500 18px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#94a3b8">tender radari · klub platformasi · Instagram paneli · avto super-ilova</text>
+  <rect x="70" y="138" width="180" height="3" fill="url(#chiz)"/>
+  <text x="640" y="172" text-anchor="end" style="font:700 15px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#2dd4bf">4 ta loyiha</text>
+  <rect x="700" y="16" width="548" height="168" rx="14" fill="#0a1020" stroke="#1f2a44"/>
+  <g clip-path="url(#maydon)">
+    <circle cx="970" cy="100" r="78" fill="none" stroke="#134e4a" stroke-width="2"/>
+    <circle cx="970" cy="100" r="52" fill="none" stroke="#134e4a" stroke-width="2"/>
+    <circle cx="970" cy="100" r="26" fill="none" stroke="#134e4a" stroke-width="2"/>
+    <line x1="892" y1="100" x2="1048" y2="100" stroke="#134e4a"/><line x1="970" y1="22" x2="970" y2="178" stroke="#134e4a"/>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 970 100;360 970 100" dur="4s" repeatCount="indefinite"/>
+      <path d="M970 100 L970 22 A78 78 0 0 1 1037 61 Z" fill="#2dd4bf" opacity=".28"/>
+      <line x1="970" y1="100" x2="970" y2="22" stroke="#2dd4bf" stroke-width="3"/></g>
+    <circle cx="930" cy="60" r="6" fill="#2dd4bf" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.00;0.04;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1010" cy="70" r="6" fill="#2dd4bf" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.17;0.21;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="120" r="6" fill="#2dd4bf" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.33;0.37;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="140" r="6" fill="#2dd4bf" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.50;0.54;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="110" r="6" fill="#2dd4bf" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.67;0.71;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="990" cy="160" r="6" fill="#2dd4bf" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.83;0.87;1" dur="4s" repeatCount="indefinite"/></circle>
+    <text x="1090" y="70" style="font:700 14px 'DejaVu Sans Mono',Consolas,monospace;fill:#5eead4">02:27:14</text>
+    <text x="1090" y="92" style="font:500 13px 'Segoe UI',Inter,sans-serif;fill:#94a3b8">qolgan vaqt</text>
+    <text x="1090" y="130" style="font:700 14px 'DejaVu Sans Mono',Consolas,monospace;fill:#5eead4">156 lot</text>
+    <text x="1090" y="152" style="font:500 13px 'Segoe UI',Inter,sans-serif;fill:#94a3b8">12 manbadan</text>
+  </g>
+</svg>

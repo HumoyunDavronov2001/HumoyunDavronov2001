@@ -1,0 +1,28 @@
+name: Faollik iloni
+
+on:
+  schedule:
+    - cron: "5 0 * * *"   # har kuni
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ilon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/ilon.svg?palette=github-light&color_snake=#059669
+            dist/ilon-tun.svg?palette=github-dark&color_snake=#34d399
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Faollik iloni yangilandi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
