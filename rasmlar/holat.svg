@@ -12,7 +12,7 @@
   </defs>
   <rect width="1292" height="630" rx="18" fill="url(#fon)"/>
   <text x="40" y="62" class="sarlavha">Jonli tizimlar</text>
-  <text x="40" y="96" class="izoh">Har 6 soatda GitHub Actions avtomatik tekshiradi · oxirgi tekshiruv: 19.10.2026 01:52 (Toshkent)</text>
+  <text x="40" y="96" class="izoh">Har 6 soatda GitHub Actions avtomatik tekshiradi · oxirgi tekshiruv: 19.10.2026 09:51 (Toshkent)</text>
   <text x="1252" y="78" text-anchor="end" class="katta">15/15</text>
   <text x="1252" y="104" text-anchor="end" class="izoh">ishlayapti</text>
 
@@ -25,7 +25,7 @@
     </circle>
     <text x="54" y="34" class="nom">GEONAZORAT SRM</text>
     <text x="54" y="56" class="domen">geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">698 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1278 ms</text>
   </g>
   <g transform="translate(444 150)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -36,7 +36,7 @@
     </circle>
     <text x="54" y="34" class="nom">Bozor kuzatuvi</text>
     <text x="54" y="56" class="domen">kuzatuv.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1466 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">725 ms</text>
   </g>
   <g transform="translate(848 150)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -47,7 +47,7 @@
     </circle>
     <text x="54" y="34" class="nom">Gulnoza AI</text>
     <text x="54" y="56" class="domen">gulnoza.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1335 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1164 ms</text>
   </g>
   <g transform="translate(40 242)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -58,7 +58,7 @@
     </circle>
     <text x="54" y="34" class="nom">Jizzax hisobot</text>
     <text x="54" y="56" class="domen">soliq.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1232 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">2298 ms</text>
   </g>
   <g transform="translate(444 242)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -69,7 +69,7 @@
     </circle>
     <text x="54" y="34" class="nom">Mahalla 17</text>
     <text x="54" y="56" class="domen">17lik.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1385 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">697 ms</text>
   </g>
   <g transform="translate(848 242)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -80,7 +80,7 @@
     </circle>
     <text x="54" y="34" class="nom">To&#x27;yxona nazorati</text>
     <text x="54" y="56" class="domen">marosim.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">743 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1151 ms</text>
   </g>
   <g transform="translate(40 334)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -91,7 +91,7 @@
     </circle>
     <text x="54" y="34" class="nom">TRACE4D</text>
     <text x="54" y="56" class="domen">trace4d.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">669 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">822 ms</text>
   </g>
   <g transform="translate(444 334)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -102,7 +102,7 @@
     </circle>
     <text x="54" y="34" class="nom">TENDER RADAR</text>
     <text x="54" y="56" class="domen">tender.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1210 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1100 ms</text>
   </g>
   <g transform="translate(848 334)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -113,7 +113,7 @@
     </circle>
     <text x="54" y="34" class="nom">Ofis miya</text>
     <text x="54" y="56" class="domen">miya.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">761 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1135 ms</text>
   </g>
   <g transform="translate(40 426)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -124,7 +124,7 @@
     </circle>
     <text x="54" y="34" class="nom">Tarmoq markazi</text>
     <text x="54" y="56" class="domen">markaz.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">751 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1037 ms</text>
   </g>
   <g transform="translate(444 426)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -135,7 +135,7 @@
     </circle>
     <text x="54" y="34" class="nom">DAVOMAT</text>
     <text x="54" y="56" class="domen">davomat.unistart-hub.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">700 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">608 ms</text>
   </g>
   <g transform="translate(848 426)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -146,7 +146,7 @@
     </circle>
     <text x="54" y="34" class="nom">Vatan tuyg&#x27;usi</text>
     <text x="54" y="56" class="domen">vatan.unistart-hub.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">652 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">537 ms</text>
   </g>
   <g transform="translate(40 518)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -157,7 +157,7 @@
     </circle>
     <text x="54" y="34" class="nom">Chorva nazorat</text>
     <text x="54" y="56" class="domen">mol-bozor.unistart-hub.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1407 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">740 ms</text>
   </g>
   <g transform="translate(444 518)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -168,7 +168,7 @@
     </circle>
     <text x="54" y="34" class="nom">RASTA</text>
     <text x="54" y="56" class="domen">elektronbozor.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">666 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">697 ms</text>
   </g>
   <g transform="translate(848 518)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -179,6 +179,6 @@
     </circle>
     <text x="54" y="34" class="nom">tong</text>
     <text x="54" y="56" class="domen">tong.ipak-yoli.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">696 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">705 ms</text>
   </g>
 </svg>
