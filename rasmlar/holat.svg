@@ -12,7 +12,7 @@
   </defs>
   <rect width="1292" height="630" rx="18" fill="url(#fon)"/>
   <text x="40" y="62" class="sarlavha">Jonli tizimlar</text>
-  <text x="40" y="96" class="izoh">Har 6 soatda GitHub Actions avtomatik tekshiradi · oxirgi tekshiruv: 28.10.2026 10:58 (Toshkent)</text>
+  <text x="40" y="96" class="izoh">Har 6 soatda GitHub Actions avtomatik tekshiradi · oxirgi tekshiruv: 28.10.2026 18:14 (Toshkent)</text>
   <text x="1252" y="78" text-anchor="end" class="katta">2/15</text>
   <text x="1252" y="104" text-anchor="end" class="izoh">ishlayapti</text>
 
@@ -47,7 +47,7 @@
     </circle>
     <text x="54" y="34" class="nom">Gulnoza AI</text>
     <text x="54" y="56" class="domen">gulnoza.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">2805 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">783 ms</text>
   </g>
   <g transform="translate(40 242)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
@@ -124,7 +124,7 @@
     </circle>
     <text x="54" y="34" class="nom">Tarmoq markazi</text>
     <text x="54" y="56" class="domen">markaz.geonazorat.uz</text>
-    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">981 ms</text>
+    <text x="364" y="44" text-anchor="end" class="ms" fill="#34d399">1729 ms</text>
   </g>
   <g transform="translate(444 426)">
     <rect width="384" height="76" rx="14" fill="#111a2e" stroke="#1f2a44"/>
